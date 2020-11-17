@@ -2,7 +2,7 @@
 <p>Compreendendo como usar métodos:</p>
 <p>input(), random(), round(), int(), interpolação .format(), abs(), print()</p>  
 
-<h2>Modulação<h3>
+<h3>Modulação</h3>
 <p>Import, e definição de uma função</p>
 <p>Como verificar se o arquivo principal é o próprio arquivo ou se ele está sendo importando por outro arquivo principal, utilizando "__name__ ".</p>
 
